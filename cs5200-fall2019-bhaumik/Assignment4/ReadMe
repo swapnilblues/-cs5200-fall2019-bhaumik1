@@ -1,0 +1,7 @@
+Please run the following test class:
+src\test\java\com\example\demo\daos\UniversityImplTest.java
+
+In the above file all the tests run in order from top to bottom since I gave the annotation '@FixMethodOrder(MethodSorters.NAME_ASCENDING)'
+in the test file.
+All you have to do is run the test class UniversityImplTest.java.
+Thank You.
