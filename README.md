@@ -4,7 +4,7 @@
 
 
 ##### Assignment 2 - SQL : Triggers, Inserts, Selects, Updates, Deletes, and View
-###### [Assignment Doc](https://docs.google.com/document/d/1FaBGoSSVp96sDtI2Ori2C5zOK7jfe8oZ-YFoFVttyQw/edit?usp=sharing) 
+###### [Assignment Doc](https://docs.google.com/document/d/1i7yCzoVwdVRBsNzg9lmY-hCyf6WoSvLzv8ChKnKsV7E/edit) 
 ##### Assignment 3 - JDBC and SQL (Stored Procedure)
 ###### [Assignment Doc](https://docs.google.com/document/d/1TF4pi52f1HIks1monqfO-qTHXapUY2pWD4yE5b2vY2A/edit)
 ##### Assignment 4 - JPA
