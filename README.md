@@ -4,4 +4,4 @@ Professor - Jose Annunziato
 Assignment 2 - SQL scripts
 Assignment 3 - JDBC, SQL -> Stored Procedure
 Assignment 4 - JPA
-Assignemtn 5 - NodeJS and MongoDB
+Assignment 5 - NodeJS and MongoDB
